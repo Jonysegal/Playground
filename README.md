@@ -34,3 +34,8 @@ Some features that are implemented:
 - Basic fullscreen GLSL shader functionality
 - Player movement
 - View tracks the player
+
+![Alt text](/../screenshots/screenshots/game.png?raw=true "Current state of the game.")
+![Alt text](/../screenshots/screenshots/shadertest.png?raw=true "Test of the fullscreen shader.")
+
+
